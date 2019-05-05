@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBoxPreference
+        android:key="CheckBox_key4"
+        android:defaultValue="false"
+        android:summary="Preference that is on the nect screen but same hierarchy"
+        android:title="Toggle preference"/>
+</PreferenceScreen>
