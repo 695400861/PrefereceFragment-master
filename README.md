@@ -92,7 +92,7 @@ public class SettingsFragment extends PreferenceFragment {
 }
 
 ```
-![Image text](https://github.com/1158509577/PrefereceFragment/blob/master/main.png)
+![Image text](https://raw.githubusercontent.com/695400861/PrefereceFragment-master/master/main.png)
 
 ## List preference
 ~~~
@@ -110,7 +110,7 @@ public class SettingsFragment extends PreferenceFragment {
     </string-array>
 </resources>
 ~~~
-![image text](https://github.com/1158509577/PrefereceFragment/blob/master/list.png)
+![image text](https://raw.githubusercontent.com/695400861/PrefereceFragment-master/master/list.png)
 
 ## edit preference
 ~~~
@@ -131,7 +131,7 @@ public class SettingsFragment extends PreferenceFragment {
             android:dialogTitle="Choose one" />
     </PreferenceCategory>
 ~~~
-![image text](https://github.com/1158509577/PrefereceFragment/blob/master/edit.png)
+![image text](https://raw.githubusercontent.com/695400861/PrefereceFragment-master/master/edit.png)
 
 ## screen 跳转
 ~~~
@@ -177,7 +177,7 @@ public class SettingsFragment2 extends PreferenceFragment {
 </PreferenceScreen>
         
 ~~~
-![image text](https://github.com/1158509577/PrefereceFragment/blob/master/intentscreen.png)
+![image text](https://raw.githubusercontent.com/695400861/PrefereceFragment-master/master/intentscreen.png)
 
 ## 网页跳转
 ~~~
@@ -190,7 +190,7 @@ public class SettingsFragment2 extends PreferenceFragment {
                 android:data="http://www.baidu.com/" />
         </PreferenceScreen>
 ~~~
-![image text](https://github.com/1158509577/PrefereceFragment/blob/master/webscreen.png)
+![image text](https://raw.githubusercontent.com/695400861/PrefereceFragment-master/master/webscreen.png)
 
 ## checkbox依赖
 ~~~
@@ -210,4 +210,4 @@ public class SettingsFragment2 extends PreferenceFragment {
             android:defaultValue="false"/>
     </PreferenceCategory>
 ~~~
-![image text](https://github.com/1158509577/PrefereceFragment/blob/master/depency.png)
+![image text](https://raw.githubusercontent.com/695400861/PrefereceFragment-master/master/depency.png)
